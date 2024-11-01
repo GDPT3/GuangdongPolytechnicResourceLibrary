@@ -1,0 +1,2 @@
+# GuangdongPolytechnicResourceLibrary
+广东职业技术学院资源库
